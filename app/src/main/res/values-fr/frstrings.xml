@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eng_qulay_va_sifatli_smm_foydalanish">Utilisation SMM confortable et de qualité</string>
+    <string name="tez_va_oson">Rapide et facile</string>
+    <string name="qo_shilish">Extrait</string>
+    <string name="avzalliklar">Préférences</string>
+    <string name="xizmatlar">Prestations de service</string>
+    <string name="tezkor_buyurtma">Commande rapide</string>
+    <string name="obunachilar">Abonnée</string>
+    <string name="kanal_va_guruhlarga_yordam_obunachi_qo_shish">Insertion d\'abonné aux chaînes et aux groupes</string>
+    <string name="yuqori_sifat">La meilleure qualité</string>
+    <string name="qulay_paneli">Panneau confortable</string>
+    <string name="eng_yaxshi_narxlar">Coûts abordables</string>
+    <string name="biz_xizmatlarimiz_sifatini_doim_kuzatib_boramiz">Nous surveillons toujours la qualité de nos services</string>
+    <string name="bizning_panelimiz_barcha_zamonaviy_texnalogiyalardan">Notre panel comprend des technologies modernes</string>
+    <string name="xizmatlarni_birinchi_qo_ldan_sotib_oling">Achetez tous les services de première main</string>
+    <string name="ko_rishlar">Les spectateurs</string>
+    <string name="reaksiyalar">Réactions</string>
+    <string name="postlarni_ko_rishlar_sonini_ko_paytirish">Augmenter le nombre de vues sur les publications</string>
+    <string name="postlarga_turli_reaksiyalar_qo_yish">Coller des variétés de réactions aux messages</string>
+
+</resources>

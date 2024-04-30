@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eng_qulay_va_sifatli_smm_foydalanish">편안하고 고품질의 SMM 사용</string>
+    <string name="tez_va_oson">빠르고 쉬움</string>
+    <string name="qo_shilish">발췌</string>
+    <string name="avzalliklar">환경설정</string>
+    <string name="xizmatlar">서비스</string>
+    <string name="tezkor_buyurtma">빠른 주문</string>
+    <string name="obunachilar">구독자</string>
+    <string name="kanal_va_guruhlarga_yordam_obunachi_qo_shish">채널 및 그룹에 대한 삽입 구독자</string>
+    <string name="yuqori_sifat">최고의 품질</string>
+    <string name="qulay_paneli">편안한 패널</string>
+    <string name="eng_yaxshi_narxlar">저렴한 비용</string>
+    <string name="biz_xizmatlarimiz_sifatini_doim_kuzatib_boramiz">우리는 항상 서비스 품질을 준수합니다.</string>
+    <string name="bizning_panelimiz_barcha_zamonaviy_texnalogiyalardan">우리 패널에는 최신 기술이 포함되어 있습니다.</string>
+    <string name="xizmatlarni_birinchi_qo_ldan_sotib_oling">모든 서비스를 직접 구매하세요</string>
+    <string name="ko_rishlar">시청자</string>
+    <string name="reaksiyalar">반응</string>
+    <string name="postlarni_ko_rishlar_sonini_ko_paytirish">게시물 조회수 늘리기</string>
+    <string name="postlarga_turli_reaksiyalar_qo_yish">게시물에 대한 다양한 반응 붙여넣기</string>
+
+</resources>

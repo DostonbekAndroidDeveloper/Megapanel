@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eng_qulay_va_sifatli_smm_foydalanish">Comfortable and Quality SMM Usage</string>
+    <string name="tez_va_oson">Fast and Easy</string>
+    <string name="qo_shilish">Extract</string>
+    <string name="avzalliklar">Preferences</string>
+    <string name="xizmatlar">Services</string>
+    <string name="tezkor_buyurtma">Fast Order</string>
+    <string name="obunachilar">Subscriber</string>
+    <string name="kanal_va_guruhlarga_yordam_obunachi_qo_shish">Insertion subscriber to channels and groups</string>
+    <string name="yuqori_sifat">The best quality</string>
+    <string name="qulay_paneli">Comfortable panel </string>
+    <string name="eng_yaxshi_narxlar">Affordable costs</string>
+    <string name="biz_xizmatlarimiz_sifatini_doim_kuzatib_boramiz">We always follow the quality of our services</string>
+    <string name="bizning_panelimiz_barcha_zamonaviy_texnalogiyalardan">Our panel includes modern technologies</string>
+    <string name="xizmatlarni_birinchi_qo_ldan_sotib_oling">Buy all services by first hand</string>
+    <string name="ko_rishlar">Viewers</string>
+    <string name="reaksiyalar">Reactions</string>
+    <string name="postlarni_ko_rishlar_sonini_ko_paytirish">Increasing the number of views on Posts</string>
+    <string name="postlarga_turli_reaksiyalar_qo_yish">Pasting varieties of reaction to Posts  </string>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="open_nav" translatable="false">Open Navigation Drawer</string>
+    <string name="close_nav" translatable="false">Close Navigation Drawer</string>
+    <string name="app_name" translatable="false">MEGAPANEL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="eng_qulay_va_sifatli_smm_foydalanish">Eng qulay va sifatli SMM foydalanish</string>
+    <string name="tez_va_oson">Tez va Oson</string>
+    <string name="qo_shilish">Qo\'shilish</string>
+    <string name="avzalliklar">Avzalliklar</string>
+    <string name="xizmatlar">Xizmatlar</string>
+    <string name="tezkor_buyurtma">Tezkor buyurtma</string>
+    <string name="obunachilar">Obunachilar</string>
+    <string name="kanal_va_guruhlarga_yordam_obunachi_qo_shish">Kanal va guruhlarga yordam obunachi qo\'shish</string>
+    <string name="yuqori_sifat">Yuqori sifat</string>
+    <string name="qulay_paneli">"Qulay paneli "</string>
+    <string name="eng_yaxshi_narxlar">Eng yaxshi narxlar</string>
+    <string name="biz_xizmatlarimiz_sifatini_doim_kuzatib_boramiz">Biz xizmatlarimiz sifatini doim kuzatib boramiz</string>
+    <string name="bizning_panelimiz_barcha_zamonaviy_texnalogiyalardan">Bizning panelimiz barcha zamonaviy texnalogiyalardan</string>
+    <string name="xizmatlarni_birinchi_qo_ldan_sotib_oling">Xizmatlarni birinchi qo\'ldan sotib oling</string>
+    <string name="ko_rishlar">Ko\'rishlar</string>
+    <string name="reaksiyalar">Reaksiyalar</string>
+    <string name="postlarni_ko_rishlar_sonini_ko_paytirish">Postlarni ko\'rishlar sonini ko\'paytirish</string>
+    <string name="postlarga_turli_reaksiyalar_qo_yish">Postlarga turli reaksiyalar qo\'yish</string>
+</resources>
